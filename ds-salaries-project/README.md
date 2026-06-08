@@ -99,7 +99,7 @@ ds-salaries-project/
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/Shivi3022/DataScience-Salary-Analysis
+git clone https://github.com/Shivi3022/DataScience-Salary-Analysis.git
 cd ds-salaries-project
 ```
 
