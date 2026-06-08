@@ -30,8 +30,8 @@ ds-salaries-project/
 │   ├── Data_Science_Salary_Dashboard.pbix  ← Power BI dashboard
 │   └── README.md
 │
-├── assets/
-│   └── screenshots/                 ← Dashboard preview images
+
+│   └── screenshots/                
 │
 ├── .gitignore
 ├── requirements.txt
